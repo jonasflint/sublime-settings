@@ -1,0 +1,20 @@
+    [{
+    "id": "view",
+    "children": [{
+        "id": "layout",
+        "children": [{
+           "command": "set_layout",
+           "caption" : "Jive's funky phat 3 stack Layout",
+           "mnemonic": "J",
+           "args":
+           {
+              "cols": [0.0, 0.5, 1.0],
+              "rows": [0.0, 0.5, 1.0],
+              "cells":
+              [
+                 [0, 0, 1, 1], [1, 0, 2, 1],
+                 [0, 1, 2, 2]
+              ]
+           }
+        }]
+    }]}]
